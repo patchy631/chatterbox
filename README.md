@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Chatterbox-Turbo.jpg">
+  <img src="./new_header.png">
 </p>
 
 # Chatterbox TTS
