@@ -2,10 +2,10 @@
   <img src="./new_header.png">
 </p>
 
-<h1 align="center">Chatterbox TTS</h1>
+<h2 align="center">Chatterbox TTS</h2>
 
 <p align="center">
-  <strong>Chatterbox</strong> is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. <strong>Chatterbox-Turbo</strong> is their most efficient model yet.
+  <strong>Chatterbox</strong> is a family of state-of-the-art, open-source text-to-speech models. <strong>Chatterbox-Turbo</strong> is their most efficient model yet.
 </p>
 
 ---
