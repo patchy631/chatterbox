@@ -5,22 +5,7 @@
 <h1 align="center">Chatterbox TTS</h1>
 
 <p align="center">
-  <a href="https://resemble-ai.github.io/chatterbox_turbo_demopage/">
-    <img src="https://img.shields.io/badge/listen-demo_samples-blue" />
-  </a>
-  <a href="https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo">
-    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg" />
-  </a>
-  <a href="https://podonos.com/resembleai/chatterbox">
-    <img src="https://static-public.podonos.com/badges/insight-on-pdns-sm-dark.svg" />
-  </a>
-  <a href="https://discord.gg/rJq9cRJBJ6">
-    <img src="https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat" />
-  </a>
-</p>
-
-<p align="center">
-  <strong>Chatterbox</strong> is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. <strong>Chatterbox-Turbo</strong> is their most efficient model yet. Built on a streamlined 350M parameter architecture, delivering high-quality speech for real-time applications. 
+  <strong>Chatterbox</strong> is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. <strong>Chatterbox-Turbo</strong> is their most efficient model yet.
 </p>
 
 ---
