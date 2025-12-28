@@ -1,5 +1,6 @@
-![Chatterbox Turbo Image](./Chatterbox-Turbo.jpg)
-
+<p align="center">
+  <img src="./Chatterbox-Turbo.jpg">
+</p>
 
 # Chatterbox TTS
 
