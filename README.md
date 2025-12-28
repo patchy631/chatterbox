@@ -2,16 +2,30 @@
   <img src="./new_header.png">
 </p>
 
-# Chatterbox TTS
+<h1 align="center">Chatterbox TTS</h1>
 
-[![Alt Text](https://img.shields.io/badge/listen-demo_samples-blue)](https://resemble-ai.github.io/chatterbox_turbo_demopage/)
-[![Alt Text](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg)](https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo)
-[![Alt Text](https://static-public.podonos.com/badges/insight-on-pdns-sm-dark.svg)](https://podonos.com/resembleai/chatterbox)
-[![Discord](https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat)](https://discord.gg/rJq9cRJBJ6)
+<p align="center">
+  <a href="https://resemble-ai.github.io/chatterbox_turbo_demopage/">
+    <img src="https://img.shields.io/badge/listen-demo_samples-blue" />
+  </a>
+  <a href="https://huggingface.co/spaces/ResembleAI/chatterbox-turbo-demo">
+    <img src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm.svg" />
+  </a>
+  <a href="https://podonos.com/resembleai/chatterbox">
+    <img src="https://static-public.podonos.com/badges/insight-on-pdns-sm-dark.svg" />
+  </a>
+  <a href="https://discord.gg/rJq9cRJBJ6">
+    <img src="https://img.shields.io/discord/1377773249798344776?label=join%20discord&logo=discord&style=flat" />
+  </a>
+</p>
 
-_Made with ♥️ by <a href="https://resemble.ai" target="_blank"><img width="100" alt="resemble-logo-horizontal" src="https://github.com/user-attachments/assets/35cf756b-3506-4943-9c72-c05ddfa4e525" /></a>
+<p align="center">
+  <strong>Chatterbox</strong> is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI. <strong>Chatterbox-Turbo</strong> is their most efficient model yet. Built on a streamlined 350M parameter architecture, delivering high-quality speech for real-time applications. 
+</p>
 
-**Chatterbox** is a family of three state-of-the-art, open-source text-to-speech models by Resemble AI.
+---
+
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 We are excited to introduce **Chatterbox-Turbo**, our most efficient model yet. Built on a streamlined 350M parameter architecture, **Turbo** delivers high-quality speech with less compute and VRAM than our previous models. We have also distilled the speech-token-to-mel decoder, previously a bottleneck, reducing generation from 10 steps to just **one**, while retaining high-fidelity audio output.
 
