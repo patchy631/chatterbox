@@ -5,7 +5,7 @@
 <h2 align="center">Chatterbox TTS</h2>
 
 <p align="center">
-  <strong>Chatterbox</strong> is a family of state-of-the-art, open-source TTS models. <strong>Chatterbox-Turbo</strong> is their strongest model yet.
+  <strong>Chatterbox</strong> is a family of state-of-the-art, open-source TTS models. <strong>Chatterbox-Turbo</strong> is their strongest model.
 </p>
 
 ---
